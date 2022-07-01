@@ -1,7 +1,7 @@
 # Salario
 
-registra 
--id
+\nregistra 
+\n-id
 -nome do fincionario
 -salario
 
