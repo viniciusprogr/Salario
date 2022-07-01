@@ -1,7 +1,8 @@
 # Salario
 
-\nregistra 
-\n-id
+
+registra :
+-id
 -nome do fincionario
 -salario
 
