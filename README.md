@@ -3,8 +3,10 @@
 
 registra :
 
-id
+id 
+
 nome do fincionario
+
 salario
 
 de qual id voce deseja aumentar o salario
